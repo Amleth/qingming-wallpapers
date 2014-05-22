@@ -1,0 +1,1 @@
+Extremly simple PHP script which has been used to generate many random wallpapers from this giant picture : [http://en.wikipedia.org/wiki/File:Along_the_River_7-119-3.jpg](http://en.wikipedia.org/wiki/File:Along_the_River_7-119-3.jpg).
